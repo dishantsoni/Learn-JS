@@ -1,6 +1,6 @@
 /** 
-DATA TYPES
-Basic example demonstrating use of primitives in JavaScript.
+VARIABLE BASICS
+Basic example demonstrating how to declar a variable in JavaScript.
 
 WHAT TO KNOW?
 1. UNDERSTAND WHAT IS 'var' KEYWORD?

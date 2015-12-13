@@ -5,7 +5,7 @@ In JavaScript you can refer to a variable declared later, without getting an exc
 This concept is known as hoisting; variables in JavaScript are in a sense "hoisted" or 
 lifted to the top of the function or statement.
 
-WHAT TO KNOW?
+THINGS TO KNOW
 1. Variable declarations are hoisted.
 2. Function declarations are hoisted.
 3. Find out more examples.

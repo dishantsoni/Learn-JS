@@ -1,7 +1,7 @@
 /** EVALUATING VARIABLE 
 A variable declared using the var or let statement with no initial value specified has the value undefined.
 
-WHAT TO KNOW?
+THINGS TO KNOW
 1. When a variable is "undefined"?
 2. null vs undefined
 3. WEIRD PART : undefined and null used in numeric context

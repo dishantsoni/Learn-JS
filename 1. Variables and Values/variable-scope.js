@@ -2,7 +2,8 @@
 VARIABLE SCOPE
 -------------------
 
-JavaScript before ECMAScript 6 does not have block statement scope; rather, a variable declared within a block is local to the function (or global scope) that the block resides within.
+JavaScript before ECMAScript 6 does not have block statement scope; rather, a variable declared within a block is local to 
+the function (or global scope) that the block resides within.
 
 WHAT TO KNOW?
 1. block scope vs function scope

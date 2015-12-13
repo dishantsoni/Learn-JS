@@ -1,8 +1,8 @@
 /** 
 VARIABLE BASICS
-Basic example demonstrating how to declar a variable in JavaScript.
+Basic example demonstrating how to declare a variable in JavaScript.
 
-WHAT TO KNOW?
+THINGS TO KNOW
 1. UNDERSTAND WHAT IS 'var' KEYWORD?
 2. HOW TO DECLARE AND DEFINE A VARIABLE?
 3. LOOSELY TYPED/DYNAMIC TYPED LANGUAGE
@@ -22,4 +22,4 @@ var vObject = {  //Object literal {}
     }
 };
 var vUndefined; //no value assigned becomes undefined
-var vNull = null; //setting explicit value to null
+var vNull = null; //setting null value explicitly

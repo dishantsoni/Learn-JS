@@ -2,7 +2,7 @@
 
 Useful resources to help you learn JavaScript.
 
-Welcome!! I am glad that you are here to find out about JavaScript. This is not a ***tutorial***. This is a collection of best articles, tutorials and other learning resources on the topic. You will find handful of resources on JavaScript language. It is intended to give you an outline of topics that are essential to build a strong knowledge base on this language. 
+Welcome!! I am glad that you are here to find out about JavaScript. This is not a ***tutorial***. This is a collection of best articles, and learning resources on important topics. You will find handful of useful resources that I used personally to learn JS. It is intended to give you an outline of topics that are essential to build a strong knowledge-base.
 
 You can find more information about the resources on [WIKI](https://github.com/dishantsoni/JavaScript-Explained/wiki/Learning-JavaScript) page.
 
